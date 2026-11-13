@@ -4,6 +4,8 @@
 `dsh-auth-*` Cookie。它不是"清理器"视频里那种只能缓解一次的工具：配合
 "启动前清理"或"退出后自动清理"，它可以把 Cookie 数量长期压回 1 个左右。
 
+> 视频介绍（Bilibili）：[431 崩溃 一键清](https://www.bilibili.com/video/BV1doWv6WEkq/)
+
 > 文档入口：变更说明见 [CHANGELOG.md](CHANGELOG.md)，完整使用、参数参考与排障
 > 流程见 [MANUAL.md](MANUAL.md)。参数、退出码和行为以 MANUAL 为准；维护/评审
 > 导航见 [AGENTS.md](AGENTS.md) 和 [CODING_STANDARDS.md](CODING_STANDARDS.md)。
