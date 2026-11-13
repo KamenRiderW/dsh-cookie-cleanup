@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Runtime artifacts created by the tool
+backups/
+logs/
+state/
